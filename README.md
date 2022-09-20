@@ -2,8 +2,6 @@
 <h3 align="center">A third-year Software Development student at the University of Applied Sciences Utrecht, in The Netherlands</h3>
 <p align="center">I'm currently specializing in Back-End, but Front-End is no problem either!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junmii&label=Profile%20views&color=0e75b6&style=flat" alt="junmii" /> </p>
-
 - 📫 You can reach me at **joy@studiostoy.nl**
 
 <h3 align="left">🌱 Currently learning:</h3>
