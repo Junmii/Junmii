@@ -4,7 +4,7 @@
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left"> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/Junmii/Junmii/assets/74547357/47452a2f-c4aa-4fce-9919-a232d4d0c19a)" alt="angular" width="40" height="40"/> </a> 
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
