@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Joy</h1>
-<h3 align="center">A third-year Software Development student at the University of Applied Sciences Utrecht, in The Netherlands</h3>
-<p align="center">I'm currently specializing in Back-End, but Front-End is no problem either!</p>
+<h3 align="center">A Junior Front-End Developer</h3>
+<p align="center">I'm specialized in Back-End, but Front-End is no problem either!</p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left"> 
