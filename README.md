@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Joy</h1>
-<h3 align="center">A Junior Front-End Developer</h3>
-<p align="center">I'm specialized in Back-End, but Front-End is no problem either!</p>
+<h3 align="center">A Front-End Developer with a passion for UX</h3>
+<p align="center">I'm specialized in Front-End, but Back-End is no problem either!</p>
 
 <h3 align="left">🌱 Currently learning</h3>
 <p align="left"> 
